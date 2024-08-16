@@ -13,6 +13,10 @@ public class FormaFactory {
             circulo = new Circulo(cor);
             circuloMap.put(cor, circulo);
             System.out.println("Criando circulo da cor: " + cor);
+        } else {
+            System.out.println("---------");
+            System.out.println("Retorna mesmo objeto.");
+            System.out.println("---------");
         }
         return circulo;
     }
