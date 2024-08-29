@@ -3,11 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/pedro.5973/Documents/NetBeansProjects/padroes-projeto/src/br/com/pedrocpnsz/padroes/comportamentais/mediator/Colaborador.java</file>
-            <file>file:/C:/Users/pedro.5973/Documents/NetBeansProjects/padroes-projeto/src/br/com/pedrocpnsz/padroes/comportamentais/mediator/ColaboradorConcreto.java</file>
-            <file>file:/C:/Users/pedro.5973/Documents/NetBeansProjects/padroes-projeto/src/br/com/pedrocpnsz/padroes/comportamentais/mediator/Mediador.java</file>
-            <file>file:/C:/Users/pedro.5973/Documents/NetBeansProjects/padroes-projeto/src/br/com/pedrocpnsz/padroes/comportamentais/mediator/Main.java</file>
-            <file>file:/C:/Users/pedro.5973/Documents/NetBeansProjects/padroes-projeto/src/br/com/pedrocpnsz/padroes/comportamentais/mediator/MediadorConcreto.java</file>
+            <file>file:/C:/Users/pedro.5973/Documents/NetBeansProjects/padroes-projeto/src/br/com/pedrocpnsz/padroes/comportamentais/observer/Observer.java</file>
+            <file>file:/C:/Users/pedro.5973/Documents/NetBeansProjects/padroes-projeto/src/br/com/pedrocpnsz/padroes/comportamentais/observer/Produto.java</file>
+            <file>file:/C:/Users/pedro.5973/Documents/NetBeansProjects/padroes-projeto/src/br/com/pedrocpnsz/padroes/comportamentais/observer/Cliente.java</file>
+            <file>file:/C:/Users/pedro.5973/Documents/NetBeansProjects/padroes-projeto/src/br/com/pedrocpnsz/padroes/comportamentais/memento/Main.java</file>
+            <file>file:/C:/Users/pedro.5973/Documents/NetBeansProjects/padroes-projeto/src/br/com/pedrocpnsz/padroes/comportamentais/memento/Historico.java</file>
+            <file>file:/C:/Users/pedro.5973/Documents/NetBeansProjects/padroes-projeto/src/br/com/pedrocpnsz/padroes/comportamentais/observer/Main.java</file>
+            <file>file:/C:/Users/pedro.5973/Documents/NetBeansProjects/padroes-projeto/src/br/com/pedrocpnsz/padroes/comportamentais/memento/TextoMemento.java</file>
+            <file>file:/C:/Users/pedro.5973/Documents/NetBeansProjects/padroes-projeto/src/br/com/pedrocpnsz/padroes/comportamentais/observer/Sujeito.java</file>
+            <file>file:/C:/Users/pedro.5973/Documents/NetBeansProjects/padroes-projeto/src/br/com/pedrocpnsz/padroes/comportamentais/memento/EditorTexto.java</file>
         </group>
     </open-files>
 </project-private>
